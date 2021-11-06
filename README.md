@@ -27,6 +27,6 @@ The analysis of the election show that:
 - The winnder of the election was:
   - Diane DeGette, who received 73.8% of the votes and 272,892 number of votes.
  
-##Challenge Overview
+## Challenge Overview
 
-##Challenge Summary
+## Challenge Summary
