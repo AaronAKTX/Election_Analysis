@@ -13,20 +13,27 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code, 1.62.0
 
-## Summary
+## Election-Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+- The votes per county in the precint were:
+  - Jefferson: 38,855 votes, 10.5% of the vote count
+  - Denver: 306,055 votes, 82.8% of the vote count
+  - Arapahoe: 24,801 votes, 6.7% of the vote count
+- Denver had the largest number of votes.
+
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
 - The candidate results were:
-  - Charles Casper Stockham received 23%" of the votes.
-  - Diane DeGette recevied 73.8% of the votes.
-  - Raymon Anthony Doane received 3.1% of the votes.
+  - Charles Casper Stockham received 23.0% of the votes (85,213 votes).
+  - Diane DeGette recevied 73.8% of the votes (272,892 votes).
+  - Raymon Anthony Doane received 3.1% of the votes (24,801 votes).
 - The winnder of the election was:
   - Diane DeGette, who received 73.8% of the votes and 272,892 number of votes.
- 
-## Challenge Overview
 
-## Challenge Summary
+- A summary of the election results is
+ 
+## Election Audit Summary
+
