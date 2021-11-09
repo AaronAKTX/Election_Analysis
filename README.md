@@ -33,7 +33,9 @@ The analysis of the election show that:
 - The winnder of the election was:
   - Diane DeGette, who received 73.8% of the votes and 272,892 number of votes.
 
-- A summary of the election results is
+- A summary of the election results is saved in a text file when this analysis script runs. The text file created look like the image below:
+- 
  
 ## Election Audit Summary
+The analysis of the election results ran very quickly with teh python script created. One of the features of the script is that is prints the results to a text file seen in the Election-Audit Results section of this file. 
 
