@@ -37,5 +37,5 @@ The analysis of the election show that:
 - 
  
 ## Election Audit Summary
-The analysis of the election results ran very quickly with teh python script created. One of the features of the script is that is prints the results to a text file seen in the Election-Audit Results section of this file. 
-
+The analysis of the election results ran very quickly with teh python script created. One of the features of the script is that it prints the results to a text file seen in the Election-Audit Results section of this file. 
+The script is also written in a way that it can be applied to many different elections.
