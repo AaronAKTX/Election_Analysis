@@ -34,7 +34,7 @@ The analysis of the election show that:
   - Diane DeGette, who received 73.8% of the votes and 272,892 number of votes.
 
 - A summary of the election results is saved in a text file when this analysis script runs. The text file created look like the image below:
-- 
+- <img src = "https://github.com/AaronAKTX/Election_Analysis/blob/main/Resources/ElectionResults.PNG">
  
 ## Election Audit Summary
 The analysis of the election results ran very quickly with teh python script created. One of the features of the script is that it prints the results to a text file seen in the Election-Audit Results section of this file. 
